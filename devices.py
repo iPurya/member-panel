@@ -1,0 +1,21 @@
+#Put Some Device Model and Versions
+devices = [
+	("samsungSM-J200H","SDK 22"),
+	("samsungGT-N8010","SDK 18"),
+	("samsungGT-N5100","SDK 19"),
+	("samsungSM-G6100","SDK 23"),
+	("samsungSM-G906L","SDK 18"),
+	("samsungSM-G9350","SDK 25"),
+	("samsungSM-P550","SDK 23"),
+	("samsungSM-G3819","SDK 27"),
+	("samsungSM-G390W","SDK 22"),
+	("samsungSM-G7508Q","SDK 20"),
+	("samsungSM-J530G","SDK 25"),
+	("samsungSM-J3119","SDK 22"),
+	("samsungSM-G710S","SDK 20"),
+	("SonyH8416","SDK 27"),
+	("SonyG3112","SDK 25"),
+	("SonyF5122","SDK 24"),
+	("HUAWEIHUAWEI Y560-U02","SDK 19"),
+	("LGELG-K420","SDK 23"),
+]
