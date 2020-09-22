@@ -1,9 +1,10 @@
-TOKEN = 'PUT YOU TOKEN' # Get it from @Botfather
+TOKEN = '1096089556:AAGzFWmkE-_EnXycGZNtoo1DXmAmkJFuZYQ'
 
-DB = 10 # Redis database selection
+DB = 10
 
-WEBSHARE_API_TOKEN = 'API_TOKEN' # Webshare api token
-WEBSHARE_USERNAME = 'USERNAME' # Webshare proxies username
-WEBSHARE_PASSWORD = 'PASSWORD' # Webshare Proxies password
+WEBSHARE_API_TOKEN = '4db805f0bd2e536419dda70789da6908836a771c'
+WEBSHARE_PAGES = [3,4]
+WEBSHARE_USERNAME = 'oiqeeusf-dest'
+WEBSHARE_PASSWORD = '73gpw9mdwte2'
 
-SUPPORT_USERNAME = '@Purya' # Support Username
+SUPPORT_USERNAME = '@mersad_support'
